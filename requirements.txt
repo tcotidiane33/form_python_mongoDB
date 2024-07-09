@@ -1,3 +1,4 @@
 Flask
 pymongo
 flask_cors  # need when gets cors erros
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
